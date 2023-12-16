@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/TungTran0694/Pipeline%20demo/_apis/build/status%2Ftung-tran-hao.pipelines-java?branchName=main)](https://dev.azure.com/TungTran0694/Pipeline%20demo/_build/latest?definitionId=3&branchName=main)
 
 # Contributing
 
